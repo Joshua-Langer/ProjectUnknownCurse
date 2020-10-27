@@ -1,3 +1,3 @@
-# PUC_Unity2019
+# Project Unknown Curse
 
 Developed with Unity 2019
